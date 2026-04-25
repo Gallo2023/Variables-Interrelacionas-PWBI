@@ -7,7 +7,7 @@ Ejemplo analizando la relación de la utilidad bruta vs margen utilidad desde el
 
 ## 🖼️ Vista previa
 
-<img src="./imagenes/CorrelacionVariables.png" width="500"/>
+<img src="./CorrelacionVariables.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Power BI
