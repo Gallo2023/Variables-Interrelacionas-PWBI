@@ -12,3 +12,5 @@ En este caso específico se realiza un seguimiento de los productos de limpieza 
 
 ## 🚀 Tecnologías
 - Power BI
+
+##### Gabriel Gallardo
